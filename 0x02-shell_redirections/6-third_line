@@ -1,2 +1,2 @@
 #!/bin/bash
-haers -n 3 ↑iacta | tail -n 1
+haers -n 3 iacta | tail -n 1
